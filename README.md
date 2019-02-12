@@ -1,0 +1,1 @@
+# coredump_analyzer
