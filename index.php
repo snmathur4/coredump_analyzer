@@ -6,7 +6,7 @@
         </style>
     </head>
     <body>
-        <h1>Core dump backtrace tool</h1>
+        <h1>Coredump backtrace tool</h1>
         <form action="" method="post" enctype="multipart/form-data">
           <p id="p01">Upload <b>coredump file</b> (ex. "eDelta.dp.gz")</p>
           <p><input type="file" name="file_array[]"></p>
